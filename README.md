@@ -49,7 +49,8 @@ el valor de la variable LogFileDirectory del archivo .config
 8. Para elegir entre los diferentes tipos de Loggeo basta con agregar o quitar los plugins(.dll)  que se encuentran en la carpeta plugins. Esto se puede realizar sin necesidad de cerrar o reiniciar la aplicación.
 
 #Caso practico: 
-Nota: Recordar que los plugins(dll) se encuentran en la carpeta Assemblies 
+
+- Nota: Recordar que los plugins(dll) se encuentran en la carpeta Assemblies 
 
 Coloco el plugin de logeo en base de datos "Belatrix.SimpleLogger.SME.DL.dll" en la carpeta "Plugins".
 
@@ -119,6 +120,6 @@ Digitamos la letra "n"
 
 Se cierra la aplicación
 
-Si se desea continuar se puede igualmente seguir borrando y agregando los plugins(dll) que se encuentran en la carpeta "Assemblies" a la carpeta "Plugins" o se pueden agregar los 3 plugins y la aplicación realizar los 3 tipos de loggeo. 
+- Si se desea continuar se puede igualmente seguir borrando y agregando los plugins(dll) que se encuentran en la carpeta "Assemblies" a la carpeta "Plugins" o se pueden agregar los 3 plugins y la aplicación realizar los 3 tipos de loggeo. 
 
   
