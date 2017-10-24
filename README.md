@@ -50,40 +50,75 @@ el valor de la variable LogFileDirectory del archivo .config
 
 Caso practico: 
 Nota: Recordar que los plugins(dll) se encuentran en la carpeta Assemblies 
+
 Coloco el plugin de logeo en base de datos "Belatrix.SimpleLogger.SME.DL.dll" en la carpeta "Plugins".
+
 Ejecuto la aplicacion Belatrix.SimpleLogger.SME.App.exe
+
 La aplicación muestra el mensaje "Please type the log message"
+
 Escribimos los siguiente : Test:Message log into a Database
+
 Presionamos enter
+
 La aplicación muestra el mensaje "Type the number of the log type Severity: 1:TYPE_WARNING , 2:TYPE_SUCCESS,3: TYPE_ERROR"
+
 Escribimos uno de los números indicados
+
 Presionamos enter
+
 La aplicación muestra el mensaje "The log message has been successfully saved on the DataBase";
+
 Podemos verificar la información ingresada realizando un Select sobre la tabla Logger que se encuentra en la base de datos DBLogger
+
 Presionamos enter
+
 La aplicación nos muestra el mensaje "Do you want to continue? Yes (y) or No (n): "
+
 Digitamos la letra "y" 
-Vamos a la carpeta Plugin y eliminamos el plugin(dll) "Belatrix.SimpleLogger.SME.DL.dll" y agregamos el plugin para loggeo en archivo de texto "Belatrix.SimpleLogger.SME.FileManager.dll"
+
+Vamos a la carpeta Plugin y eliminamos el plugin(dll) "Belatrix.SimpleLogger.SME.DL.dll" y agregamos el plugin para loggeo en archivo de 
+texto "Belatrix.SimpleLogger.SME.FileManager.dll"
+
 Escribimos los siguiente : Test:Message log into a File
+
 Presionamos enter
+
 La aplicación muestra el mensaje "Type the number of the log type Severity: 1:TYPE_WARNING , 2:TYPE_SUCCESS,3: TYPE_ERROR"
+
 Escribimos uno de los números indicados
+
 La aplicacion nos muestra el mensaje "The log message has been successfully saved on the File"
+
 Vamos a la carpeta Output y buscamos el archivo .txt generado y lo abrimos para comprobar que se escribio el mensaje de log ingresado
 [Date]: 24/10/2017 3:07:11 [Log Message]: Test: Log message into a File  [Log Severity]: success
+
 Nota: El archivo generado tiene como nombre "LogFile[FechaActual(ddMMyyyy)].txt si el archivo no existe lo crea y si existe lo abre y va agregando los mensajes linea a linea.
+
 La aplicación nos muestra el mensaje "Do you want to continue? Yes (y) or No (n): "
+
 Digitamos la letra "y" 
+
 Vamos a la carpeta Plugin y eliminamos el plugin(dll) "Belatrix.SimpleLogger.SME.FileManager.dll" y agregamos el plugin para loggeo en consola "Belatrix.SimpleLogger.SME.LogEvent.dll"
+
 Escribimos los siguiente : Test:Message log display on the console o cualquier texto que desee ingresar.
+
 Presionamos enter
+
 La aplicación muestra el mensaje "Type the number of the log type Severity: 1:TYPE_WARNING , 2:TYPE_SUCCESS,3: TYPE_ERROR"
+
 Escribimos uno de los números indicados
+
 La aplicacion nos muestra el mensaje "Log Details: LogMessage = Test:Message log display on the console, LogSeverity = warning"
+
 Presionamos enter
+
 La aplicación nos muestra el mensaje "Do you want to continue? Yes (y) or No (n): "
+
 Digitamos la letra "n"
+
 Se cierra la aplicación
+
 Si se desea continuar se puede igualmente seguir borrando y agregando los plugins(dll) que se encuentran en la carpeta "Assemblies" a la carpeta "Plugins" o se pueden agregar los 3 plugins y la aplicación realizar los 3 tipos de loggeo. 
 
   
