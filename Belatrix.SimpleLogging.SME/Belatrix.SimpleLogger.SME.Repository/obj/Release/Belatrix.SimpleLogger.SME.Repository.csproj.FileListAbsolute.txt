@@ -1,0 +1,7 @@
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\bin\Release\Belatrix.SimpleLogger.SME.Repository.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\bin\Release\Belatrix.SimpleLogger.SME.Repository.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\bin\Release\Belatrix.SimpleLogger.SME.BE.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\bin\Release\Belatrix.SimpleLogger.SME.BE.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\obj\Release\Belatrix.SimpleLogger.SME.Repository.csprojResolveAssemblyReference.cache
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\obj\Release\Belatrix.SimpleLogger.SME.Repository.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.Repository\obj\Release\Belatrix.SimpleLogger.SME.Repository.pdb

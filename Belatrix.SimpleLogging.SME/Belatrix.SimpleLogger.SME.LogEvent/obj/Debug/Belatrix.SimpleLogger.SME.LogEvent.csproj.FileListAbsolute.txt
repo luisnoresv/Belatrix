@@ -1,0 +1,11 @@
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.LogEvent.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.LogEvent.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.BE.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.Repository.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.Support.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.BE.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.Repository.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\bin\Debug\Belatrix.SimpleLogger.SME.Support.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\obj\Debug\Belatrix.SimpleLogger.SME.LogEvent.csprojResolveAssemblyReference.cache
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\obj\Debug\Belatrix.SimpleLogger.SME.LogEvent.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.LogEvent\obj\Debug\Belatrix.SimpleLogger.SME.LogEvent.pdb

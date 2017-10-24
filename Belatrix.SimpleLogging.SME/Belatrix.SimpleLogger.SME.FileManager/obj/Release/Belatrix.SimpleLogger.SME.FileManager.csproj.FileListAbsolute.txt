@@ -1,0 +1,14 @@
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.FileManager.dll.config
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.FileManager.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.FileManager.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.BE.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.DL.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.Repository.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.Support.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.BE.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.DL.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.Repository.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\bin\Release\Belatrix.SimpleLogger.SME.Support.pdb
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\obj\Release\Belatrix.SimpleLogger.SME.FileManager.csprojResolveAssemblyReference.cache
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\obj\Release\Belatrix.SimpleLogger.SME.FileManager.dll
+E:\GitHubRepository\Belatrix\Belatrix.SimpleLogging.SME\Belatrix.SimpleLogger.SME.FileManager\obj\Release\Belatrix.SimpleLogger.SME.FileManager.pdb
